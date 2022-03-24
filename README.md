@@ -6,11 +6,11 @@ This simple program calculates the Body Mass Index (BMI) from a user's weight an
 
 ```
 height = 1.75
-weight = 80
+weight = 85
 ```
 
 ## Output
 
 ```
-26
+Your BMI is 28, you are slightly overweight.
 ```
